@@ -85,18 +85,6 @@ O foco principal do desenvolvimento foi a criação de uma interface limpa, intu
 - **JavaScript (ES6+):** Manipulação do DOM e comportamentos dinâmicos.
 - **GitHub Pages:** Hospedagem e deploy contínuo da aplicação.
 
----
-
-## 📂 Estrutura de Arquivos
-
-
-```
-
-Linktree_clone/
-├── img/          # Recursos visuais (ícones, logos e imagens de fundo)
-├── index.html    # Estrutura principal da landing page
-├── style.css     # Regras de estilização e responsividade
-└── script.js     # Lógica e interatividade do site
 
 ---
 
