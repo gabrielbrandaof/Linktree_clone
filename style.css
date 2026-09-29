@@ -1,7 +1,7 @@
   :root{
-    --bg: #12151C;
-    --panel: #1B2029;
-    --panel-border: #2A3040;
+    --bg: #081522;
+    --panel: #12243A;
+    --panel-border: #263A52;
     --brass: #C6A15B;
     --brass-light: #E4C98A;
     --text: #F3EFE6;
@@ -168,7 +168,7 @@
   @media (hover:hover){
     .link-card:hover{
       border-color: var(--brass);
-      background:#20242F;
+      background:#182D46;
     }
   }
 
